@@ -1,0 +1,5 @@
+[project]
+name = "prismotech"
+version = "0.1.0"
+
+...description = "Enforcing Encryption for the Future of the PH"
